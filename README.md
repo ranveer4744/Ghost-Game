@@ -9,3 +9,5 @@ For this project I created 2 main classes (Game & Player). The Game class is whe
 
 ## How to play?
 Download the 3 files and place them within the same file. Then open your Terminal (or Command Prompt) and navigate to the file with the ruby code. Once there, enter "ruby Game.rb" and play the game! Note that the player names are default values.
+
+## Demo run (with screenshots)
