@@ -10,3 +10,15 @@ For this project I created 2 main classes (Game & Player). The Game class is whe
 ## How to play?
 Download the 3 files and place them within the same folder. Then open your Terminal (or Command Prompt) and navigate to the file with the ruby code. Once there, enter "ruby Game.rb" and play the game! Note that the player names are default values.
 
+## Demo Run (with screenshots)
+![alt text](https://github.com/ranveer4744/Ghost-Game/blob/master/ss2.png?raw=true)
+
+![alt text](https://github.com/ranveer4744/Ghost-Game/blob/master/ss3.png?raw=true)
+
+*Spells "zap" and adds a G to the person who spelled it.
+
+![alt text](https://github.com/ranveer4744/Ghost-Game/blob/master/ss.png?raw=true)
+
+*Continue to the end of the game.
+
+![alt text](https://github.com/ranveer4744/Ghost-Game/blob/master/ss4.png?raw=true)
