@@ -8,5 +8,5 @@ Ghost is a written or spoken word game in which players take turns adding letter
 For this project I created 2 main classes (Game & Player). The Game class is where most of the action takes place. This class contains a set of words from a dictionary, prints the scoreboard, counts losses, and allows players to play a round. The Player class gets an input from the player and alerts the player if they enter an invalid character.
 
 ## How to play?
-Download the 3 files and place them within the same file. Then open your Terminal (or Command Prompt) and navigate to the file with the ruby code. Once there, enter "ruby Game.rb" and play the game! Note that the player names are default values.
+Download the 3 files and place them within the same folder. Then open your Terminal (or Command Prompt) and navigate to the file with the ruby code. Once there, enter "ruby Game.rb" and play the game! Note that the player names are default values.
 
